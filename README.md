@@ -1,4 +1,5 @@
 # 🌺 About Buzzlet – Our Data Quality Hummingbird!
+!Buzzlet the Hummingbird
 
 Buzzlet is the **pet hummingbird of House REDCap**, introduced as part of our *gamification strategy* to make data quality improvement more engaging and fun.
 
